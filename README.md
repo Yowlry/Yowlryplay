@@ -1,2 +1,2 @@
 # Yowlryplay
-A zero-dependency, feature-rich offline media player built as a single .html file that runs directly in any web browser upon opening, supports multiple unique features.
+A feature-rich offline media player that supports importing local video and audio files, featuring capabilities such as multi-file batch importing with selective playback, audio spectrum visualization, single-track looping, volume and playback speed adjustment, hardware presets, and customizable equalizer tuning with preamp gain boost.
